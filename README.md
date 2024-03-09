@@ -1,10 +1,4 @@
-# Pro
-This is my first git repository.
-<br>
-Author-Prosenjit Mondol(pro).
-This second change.
-halay bolod
-<h1 align="center"> Mehedi Hasan Mamun</h1>
+<h1 align="center">PROSENJIT MONDOL</h1>
 
 <p align="center"> <img class="center" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/> </p>
 
