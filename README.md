@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-16" alt="mehedi-16" /></a> </p>
 
-- 🔭 I’m currently working on **Food delivery System**
+- 🔭 I’m currently working on **Apps Development**
 
 - 🌱 I’m currently learning **Data structures and algorithms (DSA)**
 
-- 📫 How to reach me **mehedimamun604@gmail.com**
+- 📫 How to reach me **prosenjit1156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedi-mamun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-mamun/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-mamun/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mehedimamun.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mehedimamun.01" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/stories/mehedi.mamun_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stories/mehedi.mamun_/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mehedi mamun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehedi mamun" height="30" width="40" /></a>
